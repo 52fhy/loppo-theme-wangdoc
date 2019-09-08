@@ -17,9 +17,9 @@
       <% } else { %>
         <h1 class="title"><%= page_title %></h1>
       <% } %>
-      <div class="page-meta">
+      <!--<div class="page-meta">
         <p>网道（WangDoc.com），互联网文档计划</p>
-      </div>
+      </div>-->
       <%= content %>
     </article>
     <% include pre-next %>
